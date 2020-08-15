@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+	<node pkg="slflc_pc_vc_pkg" type="slflc_pc_vc" name="slflc_pc_vc" output="screen" />
+</launch>
